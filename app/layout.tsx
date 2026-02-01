@@ -44,7 +44,7 @@ const doccupinePages = [
     category: "Configuration",
     path: "ai-assistant.mdx",
     categoryOrder: 3,
-    order: 5
+    order: 6
   },
   {
     slug: "buttons",
@@ -114,7 +114,7 @@ const doccupinePages = [
     category: "Configuration",
     path: "deployment.mdx",
     categoryOrder: 3,
-    order: 7
+    order: 8
   },
   {
     slug: "fields",
@@ -134,7 +134,7 @@ const doccupinePages = [
     category: "Configuration",
     path: "fonts.mdx",
     categoryOrder: 3,
-    order: 4
+    order: 5
   },
   {
     slug: "globals",
@@ -194,7 +194,7 @@ const doccupinePages = [
     category: "Configuration",
     path: "links.mdx",
     categoryOrder: 3,
-    order: 5
+    order: 3
   },
   {
     slug: "lists-and-tables",
@@ -214,7 +214,7 @@ const doccupinePages = [
     category: "Configuration",
     path: "model-context-protocol.mdx",
     categoryOrder: 3,
-    order: 6
+    order: 7
   },
   {
     slug: "navigation",
@@ -254,7 +254,7 @@ const doccupinePages = [
     category: "Configuration",
     path: "theme.mdx",
     categoryOrder: 3,
-    order: 3
+    order: 4
   },
   {
     slug: "update",

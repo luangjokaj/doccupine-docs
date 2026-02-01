@@ -42,8 +42,7 @@ Place a \`links.json\` at your project root (the same folder where you execute \
 ## Behavior
 - **Empty or missing file**: If \`links.json\` is empty or not present, the links bar is hidden.
 - **Order**: Links appear in the same order as in the array.
-- **No limit**: Add as many links as you want; the bar scrolls horizontally on smaller screens if needed.
-`;
+- **No limit**: Add as many links as you want; the bar scrolls horizontally on smaller screens if needed.`;
 
 export const metadata: Metadata = {
   title: `Links ${config.name ? "- " + config.name : "- Doccupine"}`,
