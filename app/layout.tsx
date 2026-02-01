@@ -187,6 +187,16 @@ const doccupinePages = [
     order: 0
   },
   {
+    slug: "links",
+    title: "Links",
+    description: "Add static links at the top of the documentation website.",
+    date: "2025-01-15",
+    category: "Configuration",
+    path: "links.mdx",
+    categoryOrder: 3,
+    order: 5
+  },
+  {
     slug: "lists-and-tables",
     title: "Lists and tables",
     description: "Present structured information using lists or tables.",

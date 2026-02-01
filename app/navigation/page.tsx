@@ -73,6 +73,7 @@ To centrally define the entire sidebar, create a \`navigation.json\` at your pro
     "links": [
       { "slug": "globals", "title": "Globals" },
       { "slug": "navigation", "title": "Navigation" },
+      { "slug": "links", "title": "Links" },
       { "slug": "theme", "title": "Theme" },
       { "slug": "fonts", "title": "Fonts" },
       { "slug": "ai-assistant", "title": "AI Assistant" },
@@ -97,7 +98,8 @@ To centrally define the entire sidebar, create a \`navigation.json\` at your pro
 ## Tips
 - **Start simple**: Use frontmatter for small docs. Switch to \`navigation.json\` as the structure grows.
 - **Keep slugs consistent**: \`slug\` must match the MDX filename (e.g., \`text.mdx\` → \`text\`).
-- **Control titles**: Use \`title\` in \`navigation.json\` to customize sidebar labels without changing page frontmatter.`;
+- **Control titles**: Use \`title\` in \`navigation.json\` to customize sidebar labels without changing page frontmatter.
+`;
 
 export const metadata: Metadata = {
   title: `Navigation ${config.name ? "- " + config.name : "- Doccupine"}`,
