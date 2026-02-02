@@ -1,1 +1,17 @@
-[]
+[
+  {
+    "title": "Back to Home",
+    "url": "https://doccupine.com",
+    "icon": "arrow-left"
+  },
+  {
+    "title": "GitHub",
+    "url": "https://github.com/doccupine",
+    "icon": "github"
+  },
+  {
+    "title": "Discord",
+    "url": "https://discord.gg/E9BufYGPhG",
+    "icon": "message-circle"
+  }
+]
