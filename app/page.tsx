@@ -38,11 +38,11 @@ In your MDX directory, you can structure your content using folders and files. D
 
 export const metadata: Metadata = {
   title: `${config.name ? config.name + " -" : "Doccupine -"} Getting Started`,
-  description: `Doccupine is a free and open-source document management system that allows you to store, organize, and share your documentation with ease.`,
+  description: `Doccupine is a free and open-source document management system that allows you to store, organize, and share your documentation with ease. AI-ready.`,
   icons: `https://doccupine.com/favicon.ico`,
   openGraph: {
     title: `${config.name ? config.name + " -" : "Doccupine -"} Getting Started`,
-    description: `Doccupine is a free and open-source document management system that allows you to store, organize, and share your documentation with ease.`,
+    description: `Doccupine is a free and open-source document management system that allows you to store, organize, and share your documentation with ease. AI-ready.`,
     images: `https://doccupine.com/preview.png`,
   },
 };
