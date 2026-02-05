@@ -52,8 +52,8 @@ importers:
         specifier: ^2.9.19
         version: 2.9.19
       cherry-styled-components:
-        specifier: ^0.1.0-43
-        version: 0.1.0-43
+        specifier: ^0.1.1
+        version: 0.1.1
       eslint:
         specifier: ^9
         version: 9.39.2
@@ -988,8 +988,8 @@ packages:
   character-reference-invalid@2.0.1:
     resolution: {integrity: sha512-iBZ4F4wRbyORVsu0jPV7gXkOsGYjGHPmAyv+HiHG8gi5PtC9KI2j1+v8/tlibRvjoWX027ypmG/n0HtO5t7unw==}
 
-  cherry-styled-components@0.1.0-43:
-    resolution: {integrity: sha512-a5plh8Yh02T0gsCQPIN5tVAGjPFYMgDQVnIrMbbW6gPKX3KQ1L63TBhPRbicBzf1sLOAIOCM7r4zerhW5KL4tw==}
+  cherry-styled-components@0.1.1:
+    resolution: {integrity: sha512-lgrrmG1cLWip+W5RNXHLDeOuGLLFy6Sh1f3jR+Y3Hg4Vm3tJ5sKqxJfR3p774lquqwp52QF573W/Ay9YnTmFSg==}
 
   client-only@0.0.1:
     resolution: {integrity: sha512-IV3Ou0jSMzZrd3pZ48nLkT9DA7Ag1pnPzaiQhpW7c3RbcqqzvzzVu+L8gfqMp/8IM2MQtSiqaCxrrcfu8I8rMA==}
@@ -3683,7 +3683,7 @@ snapshots:
 
   character-reference-invalid@2.0.1: {}
 
-  cherry-styled-components@0.1.0-43:
+  cherry-styled-components@0.1.1:
     dependencies:
       react: 19.2.4
       react-dom: 19.2.4(react@19.2.4)
