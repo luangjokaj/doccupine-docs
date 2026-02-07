@@ -45,7 +45,7 @@ const doccupinePages = [
     category: "Configuration",
     path: "ai-assistant.mdx",
     categoryOrder: 3,
-    order: 6
+    order: 7
   },
   {
     slug: "buttons",
@@ -115,7 +115,7 @@ const doccupinePages = [
     category: "Configuration",
     path: "deployment.mdx",
     categoryOrder: 3,
-    order: 8
+    order: 9
   },
   {
     slug: "fields",
@@ -135,7 +135,7 @@ const doccupinePages = [
     category: "Configuration",
     path: "fonts.mdx",
     categoryOrder: 3,
-    order: 5
+    order: 6
   },
   {
     slug: "globals",
@@ -208,6 +208,16 @@ const doccupinePages = [
     order: 2
   },
   {
+    slug: "media-and-assets",
+    title: "Media and assets",
+    description: "Serve static files like images, favicons, fonts, and Open Graph previews from the public directory.",
+    date: "2025-01-15",
+    category: "Configuration",
+    path: "media-and-assets.mdx",
+    categoryOrder: 3,
+    order: 5
+  },
+  {
     slug: "model-context-protocol",
     title: "Model Context Protocol",
     description: "Connect your Doccupine documentation to AI tools with an MCP server for enhanced AI-powered documentation search.",
@@ -215,7 +225,7 @@ const doccupinePages = [
     category: "Configuration",
     path: "model-context-protocol.mdx",
     categoryOrder: 3,
-    order: 7
+    order: 8
   },
   {
     slug: "navigation",
